@@ -1,19 +1,14 @@
 {
-  "bg": "https://www.pixel4k.com/wp-content/uploads/2018/12/happy-halloween-pumpkin-4k_1543946382.jpg",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://wallpaperaccess.com/full/1555147.png",
+  "title": "Quiz JavaScript",
+  "description": "Teste os seus conhecimentos sobre JavaScript",
   "questions": [
     {
       "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
       "title": "Como fazer um seletor por id via CSS?",
       "description": "Essa é pra aquecer",
       "answer": 2,
-      "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
-      ]
+      "alternatives": [".elemento", "*elemento", "#elemento", "%elemento"]
     },
     {
       "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
@@ -21,18 +16,16 @@
       "description": "Faz tempo em haha",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "background: linear-gradient(#e66465, #9198e5);",
+        "background: gradient(#e66465, #9198e5);"
       ]
     }
   ],
-  "external": [
-    ""
-  ],
+  "external": [""],
   "theme": {
     "colors": {
-      "primary": "#0d47a1",
-      "secondary": "orange",
+      "primary": "#b28900",
+      "secondary": "#ffc400",
       "mainBg": "#171B35",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
